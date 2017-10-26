@@ -1,0 +1,4 @@
+src/caffe/test/test_smooth_L1_loss_layer.cpp:11:35: 致命错误：caffe/vision_layers.hpp：没有那个文件或目录
+ #include "caffe/vision_layers.hpp"
+                                   ^
+编译中断。
